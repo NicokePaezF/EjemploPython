@@ -29,6 +29,6 @@ def saludo(nombre="Nicoke"):
     print("Hola " + nombre)
 
 
-suma(5, 5)
+suma(15, 25)
 random_func()
 saludo("Nicoke")
